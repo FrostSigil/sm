@@ -1,0 +1,11 @@
+{
+    "name": "sm",
+    "options": {
+        "niceName": "sm",
+        "guiName": "sm",
+        "reloadable": true
+    },
+    "description": " !sr",
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/sm/master/"],
+    "disableAutoUpdate": false
+}

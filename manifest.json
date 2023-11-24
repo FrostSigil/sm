@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "74129e72c5c7f4143192a753265d08ce4627b6b1a72ae583f5c7ead2fb6284f7",
+        "module.json": "3d5c5cd2e016472c5debbfa329af61bc6be53cee9699ec389f5959d07160a002",
+        "skills.js": {
+            "overwrite": false,
+            "hash": "5eeec78ad3470a90659a28c0f4245bcf4f85f704ce9bf6b4f0cbae951d1ed518"
+        }
+    }
+}
